@@ -1,0 +1,5 @@
+sampleName,libType,treatment,replicate,r1,r2,genome_prefix
+sample1,rnaseq,rnaseq,1,/path/to/sample1_rep1_R1.fastq.gz,/path/to/sample1_rep1_R2.fastq.gz,mm39
+sample1,rnaseq,rnaseq,2,/path/to/sample1_rep2_R1.fastq.gz,/path/to/sample1_rep2_R2.fastq.gz,mm39
+sample2,rnaseq,rnaseq,1,/path/to/sample2_rep1_R1.fastq.gz,/path/to/sample2_rep1_R2.fastq.gz,hg38
+sample2,rnaseq,rnaseq,2,/path/to/sample2_rep2_R1.fastq.gz,/path/to/sample2_rep2_R2.fastq.gz,hg38
